@@ -1,0 +1,46 @@
+/* Grundlegendes Styling */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* Seitenbereiche */
+header, main, footer {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+/* Header */
+header {
+  background-color: #e0f0ff;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+/* Überschriften */
+h1, h2 {
+  color: #004080;
+}
+
+/* Links */
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 0.9em;
+  color: #666;
+}
