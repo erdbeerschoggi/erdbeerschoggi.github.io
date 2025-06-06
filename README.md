@@ -4,7 +4,8 @@
 
 ## Grob-Planung
 
-![WhatsApp Bild 2025-06-06 um 11 22 21_7cef96be](https://github.com/user-attachments/assets/f9f84b5c-b4d8-45be-8256-8e31fa48de38)
+![image](https://github.com/user-attachments/assets/ec78814d-1b31-4a01-ba42-a029087500f5)
+
 
 ## 6.6
 
