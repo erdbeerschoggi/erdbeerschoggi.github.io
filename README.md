@@ -8,7 +8,7 @@
 
 ![image](https://github.com/user-attachments/assets/95975454-2817-482d-b502-fc67c4535019)
 
-Verbesserte Planung nach meiner definitiven Entscheidung, wie ich es machen möchte
+Verbesserte Planung nach meiner definitiven Entscheidung, wie ich es machen möchte.
 
 
 ## 6.6
