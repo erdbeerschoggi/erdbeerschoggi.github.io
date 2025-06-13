@@ -22,21 +22,19 @@ Screenshot von meinem Inhalt
 
 ## 13.6
 
-- [ ] Project Page ausbauen -> wie möchte ich die Projekte zeigen.
+- [x] Projekt Page ausbauen -> wie möchte ich die Projekte zeigen.
 - [ ] Modul Page ausbauen -> wie will ich diese zeigen.
-- [ ] Aside mit den section verbesser, so dass diese nicht meine anderen Boxe verdeckt.
-- [ ] Welcome Page erweitern
+- [x] Aside mit den section verbessern, so dass diese nicht meine anderen Boxe verdeckt.
+- [x] Welcome Page erweitern
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich das Design und den Inhalt meiner Webseite erweitert. Ich habe von meinem aside eine Navigation gemacht, da dies praktischer ist. Ich habe auch ein Bild zu meiner Willkommensseite hinzugefügt und auch ein wenig Text bei über mich und Projekte. Ich habe auch meine Farben von der Webseite geändert, und zwar in schöne Pinktöne.
 
-☝️ Vergessen Sie nicht, Ihre angepasste Website auf github hochzuladen
 
 ## 20.7
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Modul Page ausbauen -> Informationen aufschreiben
+- [ ] Webseite Public machen
+- [ ] Webseite responsive machen, so dass sie auf jedem Gerät funktioniert.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
