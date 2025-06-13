@@ -16,6 +16,7 @@ Verbesserte Planung
 Heute habe ich mir überlegt, wie meine HTML-Seite aufgebaut sein sollte. Dazu habe ich mir auch überlegt, welchen Inhalt ich mitbeziehen will, und habe diesen auf Word aufgeschrieben und einen Screenshot gemacht und hier eingefügt. Danach habe ich angefangen, die Website grob zu coden. Ich habe alle Boxen erstellt, die auf der Webseite sein sollten, sodass ich sie beim nächsten Mal richtig erarbeiten kann.
 
 ![image](https://github.com/user-attachments/assets/7ff0ff75-e8c7-41e0-860d-fa31f1c4e4b3)
+
 Screenshot von meinem Inhalt
 
 
