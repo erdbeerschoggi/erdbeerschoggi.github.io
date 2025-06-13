@@ -6,6 +6,9 @@
 
 ![image](https://github.com/user-attachments/assets/ec78814d-1b31-4a01-ba42-a029087500f5)
 
+![image](https://github.com/user-attachments/assets/95975454-2817-482d-b502-fc67c4535019)
+verbesserte Planung nach meiner definitiven Entscheidung, wie ich es machen möchte
+
 
 ## 6.6
 
