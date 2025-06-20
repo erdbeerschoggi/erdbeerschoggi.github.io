@@ -32,9 +32,9 @@ Heute habe ich das Design und den Inhalt meiner Webseite erweitert. Ich habe von
 
 ## 20.7
 
-- [ ] Modul Page ausbauen -> Informationen aufschreiben
+- [x] Modul Page ausbauen -> Informationen aufschreiben
 - [ ] Informationen überarbeiten -> Schreibefehler, Syntaxfehler.....
-- [ ] Mein Bild auf der Webseite responsive machen, es passt sich nähmlich nicht an.
+- [x] Mein Bild auf der Webseite responsive machen, es passt sich nähmlich nicht an.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
