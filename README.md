@@ -34,7 +34,7 @@ Heute habe ich das Design und den Inhalt meiner Webseite erweitert. Ich habe von
 
 - [ ] Modul Page ausbauen -> Informationen aufschreiben
 - [ ] Webseite Public machen
-- [ ] Webseite responsive machen, so dass sie auf jedem Gerät funktioniert.
+- [ ] Mein Bild auf der Webseite responsive machen, es passt sich nähmlich nicht an.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
