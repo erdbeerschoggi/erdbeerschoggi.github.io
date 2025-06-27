@@ -38,18 +38,6 @@ section {
 }
 
 
-button {
-    font-family: Arial, sans-serif;
-    color: var(--my-blue);
-    background-color: #FFB3C6;
-    border: none;
-    margin: 5px;
-    cursor: pointer;
-    display: inline-block; 
-    padding: 0 10px; 
-}
-
-
 nav {
     text-align: center;
     background-color: #FFB3C6;
@@ -57,13 +45,28 @@ nav {
     top: 0; 
     width: 100%;
     list-style: none;
+    
+}
+
+a:hover {
+  color: var(--my-dark-pink); 
+  text-decoration: underline; 
 }
 
 a {
-    text-decoration: none;
+    text-decoration: underline;
     color: var(--my-blue);
     font-weight: bold;
+    border: none;
 }
+
+.NavLink {
+    margin: 5px;
+    cursor: pointer;
+    padding: 0 10px; 
+}
+
+
 
 h1, h2 {
   color: var(--my-blue);
