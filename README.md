@@ -40,8 +40,8 @@ Heute habe ich meine Webseite ein wenig verbessert, indem ich alle meine 3 Arbei
 
 ## 27.7 Abschluss
 
-- [x] oben in der Leiste, wo man zu den Abschnitten kommt, noch Hovereffekte hinzufügen. Z.B. dass der Text die Farbe ändert.
-- [x] Kontext über Module (BBB IMS usw, damit der Arbeitsgeben versteht was Module sind)
+- [ ] oben in der Leiste, wo man zu den Abschnitten kommt, noch Hovereffekte hinzufügen. Z.B. dass der Text die Farbe ändert.
+- [ ] Kontext über Module (BBB IMS usw, damit der Arbeitsgeben versteht was Module sind)
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
