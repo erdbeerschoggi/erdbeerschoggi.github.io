@@ -4,7 +4,7 @@
 
 ## Grob-Planung
 
-1. Welche 2 Projekte haben Sie bereits auf Ihrem github, welche Sie verlinken könnten? (Lassen Sie einen Platzhalter)
+1. Welche 2 Projekte haben Sie bereits auf Ihrem github, welche Sie verlinken könnten? (Lassen Sie einen Platzhalter)  Tictactoe, Cat Facts, Erdbeerschoggi und vielleicht winforms.
 2. Wie sieht Ihr *skill portfolio* aus? Was können Sie bereits, und was wäre etwas, das Sie lernen möchten?
 
 ## 22.5.
