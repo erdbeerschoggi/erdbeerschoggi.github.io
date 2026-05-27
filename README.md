@@ -30,7 +30,7 @@ Heute habe ich mir Gedanken gemacht, wie meine Webseite gemacht werden soll, und
 - [x] Meine aktuellen Projekte auflisten
 - [ ] Meinen CV hinzufügen
 
-Heute habe ich meine Webseite verschönert indem ich das Layout, die Schrift, die Farben geändert habe. Ich habe auch alle meine Projekte aktualisiert und einige andern Sachen verbessert habe. Wenn ich noch Zeit habe dann füge ich mein CV hinzu sobald ich das auch überarbeitet habe.
+Heute habe ich meine Webseite verschönert indem ich das Layout, die Schrift, die Farben geändert habe. Ich habe auch alle meine Projekte aktualisiert und einige andern Sachen verbessert habe. Wenn ich noch Zeit habe dann füge ich mein CV hinzu sobald ich das auch überarbeitet habe (da dort auch meine skills aufgelistet sind).
 
 ## 5.6.
 
