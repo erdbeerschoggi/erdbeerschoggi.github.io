@@ -1,0 +1,300 @@
+:root {
+  /* Ultra-Minimalist Black & White Palette */
+  --bg-color: #000000;         
+  --section-bg: #0A0A0A;       
+  --card-bg: #111111;          
+  --border-color: #2A2A2A;     
+  --text-main: #EDEDED;        
+  --text-muted: #888888;       
+  --accent: #FFFFFF;           
+  --accent-text: #000000;      
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: var(--bg-color);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: var(--text-main);
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    letter-spacing: -0.01em;
+}
+
+h1, h2, h3 {
+    color: var(--text-main);
+    font-weight: 600;
+    letter-spacing: -0.03em;
+}
+
+/* Navigation */
+nav {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-bottom: 1px solid var(--border-color);
+    position: fixed; 
+    top: 0; 
+    width: 100%;
+    padding: 18px 0;
+    z-index: 1000;
+    backdrop-filter: blur(10px);
+}
+
+.NavLink {
+    margin: 0 20px;
+    text-decoration: none;
+    color: var(--text-muted);
+    font-size: 0.9em;
+    font-weight: 500;
+    text-transform: uppercase; 
+    letter-spacing: 0.05em;
+    transition: color 0.2s ease;
+}
+
+.NavLink:hover {
+    color: var(--accent); 
+}
+
+/* Header */
+header {
+    background-color: var(--bg-color);
+    text-align: center;
+    padding: 160px 20px 80px 20px;
+}
+
+header h1 {
+    font-size: 3em;
+    margin-bottom: 5px;
+}
+
+header p {
+    color: var(--text-muted);
+    font-size: 1.2em;
+    font-weight: 400;
+    margin-top: 0;
+}
+
+/* Main Content */
+main, footer {
+    padding: 20px;
+    max-width: 900px;
+    margin: auto; 
+}
+
+section {
+    margin: 80px 0;
+    padding: 50px 40px;
+    border-radius: 4px; 
+    background-color: var(--section-bg);
+    border: 3px solid var(--border-color);
+}
+
+section h2 {
+    color: var(--accent);
+    margin-top: 0;
+    border-bottom: 3px solid var(--border-color);
+    padding-bottom: 15px;
+    margin-bottom: 40px;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+/* ZWEISPALTIGES LAYOUT - Über mich */
+.ueber-mich-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 50px;
+}
+
+.ueber-mich-beschreibung {
+    flex: 2;
+    min-width: 300px;
+    text-align: left;
+}
+
+.ueber-mich-beschreibung h2 {
+    margin-top: 0;
+}
+
+.ueber-mich-foto {
+    flex: 1;
+    min-width: 200px;
+    text-align: center;
+}
+
+.ueber-mich-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px; /* Ganz leichte Abrundung wirkt harmonisch */
+    /* Der Schwarz-Weiss-Filter wurde hier komplett entfernt, dein Foto strahlt jetzt wieder in Farbe! */
+}
+
+/* Code-Card-Styling (VS-Code Fenster) */
+.code-card {
+    background-color: #000000; 
+    color: #CCCCCC;
+    border-radius: 6px;
+    border: 3px solid var(--border-color);
+    padding: 0;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; 
+    font-size: 0.9em;
+    overflow: hidden;
+    margin-top: 30px;
+}
+
+.code-card-header {
+    background-color: #0A0A0A;
+    padding: 10px 15px;
+    display: flex;
+    align-items: center;
+    border-bottom: 3px solid var(--border-color); 
+}
+
+.dot {
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 8px;
+}
+
+/* Die originalen Mac-Fenster-Farben für einen kleinen, schönen Farb-Akzent */
+.red { background-color: #FF5F56; }
+.yellow { background-color: #FFBD2E; }
+.green { background-color: #27C93F; }
+
+.file-name {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 0.85em;
+    color: var(--text-muted);
+}
+
+.code-card pre {
+    padding: 25px;
+    margin: 0;
+    line-height: 1.6;
+    white-space: pre-wrap;
+    /* Kleiner Farbakzent für den Code, damit auch hier nicht alles nur weiss/grau ist */
+    color: #E2E8F0; 
+}
+
+/* Projekt-Grid */
+.projekt-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.Projekte {
+    background-color: var(--card-bg);
+    padding: 30px;
+    border-radius: 4px;
+    border: 1px solid var(--border-color);
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+}
+
+.projekte-content {
+    margin-bottom: 30px;
+}
+
+.Projekte strong {
+    color: var(--accent);
+    font-size: 1.1em;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.Projekte p {
+    margin: 0;
+    color: var(--text-muted);
+    font-size: 0.95em;
+}
+
+.projekte-button-container {
+    margin-top: auto;
+}
+
+.Projekte a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: var(--accent-text); 
+    background-color: var(--accent);
+    padding: 12px 20px;
+    border-radius: 2px;
+    font-size: 0.9em;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    transition: opacity 0.2s ease;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.Projekte a:hover {
+    opacity: 0.8;
+}
+
+/* Lieblings Module */
+#Abschnitt3 strong {
+    color: var(--accent);
+}
+
+#Abschnitt3 p {
+    margin-top: 15px;
+}
+
+/* Lebenslauf */
+.lebenslauf-section {
+    background-color: var(--bg-color);
+}
+
+.lebenslauf-container {
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 40px; 
+    text-align: left; 
+    margin-top: 20px;
+}
+
+.lebenslauf-spalte {
+    flex: 1; 
+    min-width: 250px;
+}
+
+.lebenslauf-spalte h3 {
+    border-bottom: 1px solid var(--border-color); 
+    padding-bottom: 10px;
+    color: var(--accent);
+}
+
+.lebenslauf-spalte ul {
+    line-height: 2;
+    padding-left: 20px;
+}
+
+.lebenslauf-spalte strong {
+    color: var(--accent);
+}
+
+/* Footer */
+footer {
+    margin-top: 100px;
+    text-align: center;
+    color: var(--text-muted);
+    border-top: 1px solid var(--border-color);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 0.85em;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
