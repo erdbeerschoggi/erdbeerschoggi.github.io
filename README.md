@@ -25,12 +25,12 @@ Heute habe ich mir Gedanken gemacht, wie meine Webseite gemacht werden soll, und
 
 ## 29.5.
 
-- [ ] Den Anfangssatz verbesserm
-- [ ] Die Webseite schöner gestallten (Farben aussuchen, Formen....)
-- [ ] Meine aktuellen Projekte auflisten
+- [x] Den Anfangssatz verbesserm
+- [x] Die Webseite schöner gestallten (Farben aussuchen, Formen....)
+- [x] Meine aktuellen Projekte auflisten
 - [ ] Meinen CV hinzufügen
 
-☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+Heute habe ich meine Webseite verschönert indem ich das Layout, die Schrift, die Farben geändert habe. Ich habe auch alle meine Projekte aktualisiert und einige andern Sachen verbessert habe. Wenn ich noch Zeit habe dann füge ich mein CV hinzu sobald ich das auch überarbeitet habe.
 
 ## 5.6.
 
