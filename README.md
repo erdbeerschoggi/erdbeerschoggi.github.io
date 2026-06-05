@@ -7,6 +7,10 @@
 1. Welche 2 Projekte haben Sie bereits auf Ihrem github, welche Sie verlinken könnten? (Lassen Sie einen Platzhalter)  Tictactoe, Cat Facts, Erdbeerschoggi und vielleicht winforms.
 2. Wie sieht Ihr *skill portfolio* aus? Was können Sie bereits, und was wäre etwas, das Sie lernen möchten?
 
+## Linked in Profil
+
+Link: https://www.linkedin.com/in/maja-piotrowska-622170414/?skipRedirect=true
+
 ## 22.5.
 
 - [x] Ein Grundgerüst für meine Startseite erstellen. Dieses sollte einen Abholer-Satz und Kontaktinformationen beeinhalten, auf meinen CV verlinken, und einige Projekte in den Vordergrund stellen.
@@ -35,8 +39,8 @@ Heute habe ich meine Webseite verschönert indem ich das Layout, die Schrift, di
 ## 5.6.
 
 - [ ] LinkedIn-Profil erstellen / ausputzen
-- [ ] GitHub-Profil professionalisieren (`readme.md`)
+- [x] GitHub-Profil professionalisieren (`readme.md`)
 - [ ] Start-Seite abschliessen
-- [ ] Rückmeldung geben
+- [x] Rückmeldung geben
 
-☝️ Vergessen Sie nicht, die fertige Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+Heute habe ich mein GitHub-Profil verschönert und professioneller gemacht. Dann erstellte ich einen LinkedIn-Account, aber ich bin noch nicht dazu gekommen, meinen LinkedIn-Account einzurichten. Deshalb mache ich das in meiner Freizeit. Meine Startseite muss ich noch veröffentlichen und mein Skills-Portfolio hinzufügen. Ich habe am Ende des Unterrichts noch 2 Bewerbungen geschrieben und diese dann ausgetauscht und auch Rückmeldungen zu anderen Bewerbungen gegeben.
