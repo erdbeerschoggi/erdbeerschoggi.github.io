@@ -52,6 +52,7 @@ Heute habe ich mein GitHub-Profil verschönert und professioneller gemacht. Dann
 - [ ] Lebenslauf aktualisieren
 - [ ] alle Kontaktdaten überall aktualisieren
 
+Heute habe ich in der Klasse nach Berufen recherchiert und diese in 2 Gruppen der Klasse präsentiert. Durch diese Aufgabe erfuhr ich mehr darüber, was ein Data Scientist macht. Dann machte ich mich daran, mein LinkedIn aufzupolieren, meinen Lebenslauf zu aktualisieren und meine Startseite ein wenig zu verbessern.
 
 ## 12.6.
 
