@@ -55,7 +55,7 @@ Heute habe ich mein GitHub-Profil verschönert und professioneller gemacht. Dann
 
 ## 12.6.
 
-- [ ] Start-Seite abschliessen
+- [ ] Start-Seite abschliessen/ausbessern -> gute portfolios zu inspirtation: https://github.com/emmabostian/developer-portfolios  
 - [ ] Lebenslauf aktualisieren
 - [ ] alle Kontaktdaten überall aktualisieren
 - [ ] Skills-Portfolio auf Startseite ausbessern
