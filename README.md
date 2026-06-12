@@ -49,8 +49,8 @@ Heute habe ich mein GitHub-Profil verschönert und professioneller gemacht. Dann
 
 - [x] LinkedIn-Profil erstellen / ausputzen
 - [x] Berufe vorstellen
-- [ ] Lebenslauf aktualisieren
-- [ ] alle Kontaktdaten überall aktualisieren
+- [x] Lebenslauf aktualisieren
+- [x] alle Kontaktdaten überall aktualisieren
 
 Heute habe ich in der Klasse nach Berufen recherchiert und diese in 2 Gruppen der Klasse präsentiert. Durch diese Aufgabe erfuhr ich mehr darüber, was ein Data Scientist macht. Dann machte ich mich daran, mein LinkedIn aufzupolieren, meinen Lebenslauf zu aktualisieren und meine Startseite ein wenig zu verbessern.
 
