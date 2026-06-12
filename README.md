@@ -44,3 +44,10 @@ Heute habe ich meine Webseite verschönert indem ich das Layout, die Schrift, di
 - [x] Rückmeldung geben
 
 Heute habe ich mein GitHub-Profil verschönert und professioneller gemacht. Dann erstellte ich einen LinkedIn-Account, aber ich bin noch nicht dazu gekommen, meinen LinkedIn-Account einzurichten. Deshalb mache ich das in meiner Freizeit. Meine Startseite muss ich noch veröffentlichen und mein Skills-Portfolio hinzufügen. Ich habe am Ende des Unterrichts noch 2 Bewerbungen geschrieben und diese dann ausgetauscht und auch Rückmeldungen zu anderen Bewerbungen gegeben.
+
+## 12.6.
+
+- [x] LinkedIn-Profil erstellen / ausputzen
+- [X] Start-Seite abschliessen
+- [ ] Lebenslauf aktualisieren
+- [ ] Überall LinkedIn hinzufügen
