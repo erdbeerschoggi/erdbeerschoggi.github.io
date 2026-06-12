@@ -48,6 +48,14 @@ Heute habe ich mein GitHub-Profil verschönert und professioneller gemacht. Dann
 ## 12.6.
 
 - [x] LinkedIn-Profil erstellen / ausputzen
-- [X] Start-Seite abschliessen
+- [x] Berufe vorstellen
 - [ ] Lebenslauf aktualisieren
-- [ ] Überall LinkedIn hinzufügen
+- [ ] alle Kontaktdaten überall aktualisieren
+
+
+## 12.6.
+
+- [ ] Start-Seite abschliessen
+- [ ] Lebenslauf aktualisieren
+- [ ] alle Kontaktdaten überall aktualisieren
+- [ ] Skills-Portfolio auf Startseite ausbessern
