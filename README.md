@@ -56,7 +56,9 @@ Heute habe ich in der Klasse nach Berufen recherchiert und diese in 2 Gruppen de
 
 ## 12.6.
 
-- [ ] Start-Seite abschliessen/ausbessern -> gute portfolios zu inspirtation: https://github.com/emmabostian/developer-portfolios  
-- [ ] Lebenslauf aktualisieren
-- [ ] alle Kontaktdaten überall aktualisieren
-- [ ] Skills-Portfolio auf Startseite ausbessern
+- [x] Start-Seite abschliessen/ausbessern -> gute portfolios zu inspirtation: https://github.com/emmabostian/developer-portfolios  
+- [x] Lebenslauf aktualisieren
+- [x] alle Kontaktdaten überall aktualisieren
+- [x] Skills-Portfolio auf Startseite ausbessern
+
+Heute habe ich mein Portfolio fertiggestellt, indem ich mein Skill-Portfolio auspolierte und Kontaktdaten hinzufügte. Dann aktualisierte ich noch meinen Lebenslauf auf den neusten Stand.
